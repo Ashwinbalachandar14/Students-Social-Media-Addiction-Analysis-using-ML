@@ -1,4 +1,4 @@
-# 📊 Students' Social Media Addiction Analysis
+# 📊 Student's Social Media Addiction Analysis
 
 This project analyzes the relationship between student demographics and their social media usage using machine learning techniques.
 
